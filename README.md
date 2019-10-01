@@ -14,7 +14,4 @@ localhost:3000/repeat/hello/5   -will display a page repeating the word hello fi
 
 any other page will say - No page here.. go back.
 
-How to run : 
-1. Make sure you have NodeJs and Express installed.
-2. Run app.js using command "node app.js", without quotes, in the terminal.
-3. Open any browser and go to localhost:3000 to open the home page.
+Requirements : NodeJs and Express.
